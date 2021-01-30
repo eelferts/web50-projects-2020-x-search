@@ -51,8 +51,6 @@ div.otByu div.jYcx0e {
 }
 
 .jfk-button-action {
-  -webkit-box-shadow: none;
-  -moz-box-shadow: none;
   box-shadow: none;
   background-color: #4d90fe;
   background-image: -moz-linear-gradient(top,#4d90fe,#4787ed);
@@ -79,4 +77,27 @@ div.lOTAE {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+div.PLLUQc {
+  padding-right: 16px;
+  height: 30px;
+  min-width: 167px;
+  
+}
+
+label {
+  
+  height: 30px;
+  vertical-align: middle;
+  float: left;
+  min-width: 167px;
+  height: 20px;
+  color: #222;
+  font-size: 13px;
+  font-family: arial,sans-serif;
+  line-height: 16px; 
+  margin: auto; 
+
 }
